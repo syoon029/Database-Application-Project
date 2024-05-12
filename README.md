@@ -8,4 +8,4 @@ primary keys and uniqueness constraints, and foreign key constraints. Inserted a
 ## Others
 - `Description.pdf`: Scenario Description for whole project.
 - `EERD.png`: Translated the requirements in the scenario into an (Enhanced) Entity-Relationship Diagram (EERD). 
-- `'relational_schema.pdf`: Converted the Enhanced Entity-Relationship Diagram (EERD) into a set of relational schema.
+- `relational_schema.pdf`: Converted the Enhanced Entity-Relationship Diagram (EERD) into a set of relational schema.
